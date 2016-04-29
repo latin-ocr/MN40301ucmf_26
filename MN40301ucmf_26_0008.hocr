@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./MN40301ucmf_26_0008.png"; bbox 0 0 2394 3792; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 194 696 1122 1047">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 194 696 1122 1047">
+     <span class='ocr_line' id='line_1_1' title="bbox 194 696 1122 1047; baseline 0.009 -68"><span class='ocrx_word' id='word_1_1' title='bbox 194 696 892 1047; x_wconf 77' lang='lat' dir='ltr'>Meisner,</span> <span class='ocrx_word' id='word_1_2' title='bbox 956 711 1029 986; x_wconf 88' lang='lat' dir='ltr'>J</span> <span class='ocrx_word' id='word_1_3' title='bbox 1036 794 1122 986; x_wconf 91' lang='lat' dir='ltr'>o</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 152 1667 1197 2034">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 37 1667 1197 2034">
+     <span class='ocr_line' id='line_1_2' title="bbox 152 1667 1197 2034; baseline 0.002 -99.802"><span class='ocrx_word' id='word_1_4' title='bbox 152 1667 1048 2034; x_wconf 29' lang='lat' dir='ltr'>”Diaseepsis</span> <span class='ocrx_word' id='word_1_5' title='bbox 1106 1707 1197 1950; x_wconf 42' lang='lat' dir='ltr'>tx</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 201 2149 1197 2523">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 201 2149 1197 2523">
+     <span class='ocr_line' id='line_1_3' title="bbox 201 2149 1197 2523; baseline -0.027 -77"><span class='ocrx_word' id='word_1_6' title='bbox 201 2156 381 2445; x_wconf 82' lang='lat' dir='ltr'>de</span> <span class='ocrx_word' id='word_1_7' title='bbox 437 2149 1197 2523; x_wconf 62' lang='lat' dir='ltr'>plerophos</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 372 1208 3792">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 372 1208 3792">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 372 1208 3792; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 372 1208 3792; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 199 3124 1144 3492">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 199 3124 1144 3492">
+     <span class='ocr_line' id='line_1_5' title="bbox 199 3124 1144 3492; baseline -0.022 -65"><span class='ocrx_word' id='word_1_9' title='bbox 199 3124 1144 3492; x_wconf 78' lang='lat' dir='ltr'>Wittenberg‚</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
